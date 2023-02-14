@@ -3,4 +3,6 @@
     <string name="textHowMany">Enter desired salary</string>
     <string name="mySalary">0</string>
     <string name="buttonNext">NEXT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
